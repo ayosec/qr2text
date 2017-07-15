@@ -1,7 +1,7 @@
 [package]
 name = "qr2text"
 version = "0.1.0"
-authors = ["app"]
+authors = ["Ayose <ayosec@gmail.com>"]
 
 [dependencies]
 qrcode = { version = "0.4", default-features = false }
