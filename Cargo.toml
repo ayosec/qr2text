@@ -1,0 +1,7 @@
+[package]
+name = "qr2text"
+version = "0.1.0"
+authors = ["app"]
+
+[dependencies]
+qrcode = "0.4"
