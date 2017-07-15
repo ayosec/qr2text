@@ -31,3 +31,13 @@ Reading data from standard input:
     ```
 
 3. Copy `target/release/qr2text` to `/usr/local/bin`, or any other directory in your `$PATH`.
+
+### From Cargo
+
+1. Install [Rust](https://www.rust-lang.org/en-US/)
+
+2. Type
+
+    ```bash
+    $ cargo install qr2text
+    ```
