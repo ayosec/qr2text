@@ -41,3 +41,7 @@ Reading data from standard input:
     ```bash
     $ cargo install qr2text
     ```
+
+### From a compiled binary
+
+You can download a binary (Linux, x86-64) from the [Releases page](https://github.com/ayosec/qr2text/releases).
