@@ -4,4 +4,8 @@ version = "0.1.0"
 authors = ["app"]
 
 [dependencies]
-qrcode = "0.4"
+qrcode = { version = "0.4", default-features = false }
+
+[profile.release]
+panic = "abort"
+lto = true
