@@ -4,6 +4,12 @@ version = "0.1.0"
 authors = ["Ayose <ayosec@gmail.com>"]
 exclude = [ "imgs/*" ]
 
+license = "MIT"
+description = "Render a QR code in the terminal"
+homepage = "https://github.com/ayosec/qr2text"
+keywords = [ "qrcode" ]
+categories = [ "command-line-interface" ]
+
 [dependencies]
 qrcode = { version = "0.4", default-features = false }
 
