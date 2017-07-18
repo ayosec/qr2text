@@ -1,6 +1,6 @@
 # qr2text
 
-A CLI program to render a QR code directly on the terminal.
+A CLI program to render a QR code as plain text, using [block symbols](https://en.wikipedia.org/wiki/Block_Elements).
 
 ## Examples
 
